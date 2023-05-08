@@ -27,11 +27,11 @@ We used several tools for the analysis, including PostgresSQL and Tableau. We vi
 
 Based on the analyses, we made the following recommendations:
 
-The most selling month during 2010 and 2011 is November, with a profit of 45,633.38 dollars.
-The product with the most quantity sold is not the product generating the most profits.
-The product with ID 84879 is generating the most profits.
-The top products that are sold together the most are "20724”/"2235”.
-The monetary model for customer behavior shows that seven customers need attention.
+1. The most selling month during 2010 and 2011 is November, with a profit of 45,633.38 dollars.
+2. The product with the most quantity sold is not the product generating the most profits.
+3. The product with ID 84879 is generating the most profits.
+4. The top products that are sold together the most are "20724”/"2235”.
+5. The monetary model for customer behavior shows that seven customers need attention.
 
 ## Conclusion
 
